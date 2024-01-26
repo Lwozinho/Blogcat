@@ -78,7 +78,7 @@ header {
   border-radius: 99rem;
 }
 
-.principal {
+.main {
   color: var(--color-base-main-dark);
   font-family: Mulish;
   font-size: 1.6rem;
@@ -151,7 +151,7 @@ section h2 {
   line-height: 2.8rem;
 }
 
-.artigos {
+.articles {
   display: grid;
   grid-template-areas:
     "A B"
